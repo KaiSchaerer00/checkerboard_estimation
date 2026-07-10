@@ -1,0 +1,4 @@
+useDynLib(stats, .registration = TRUE, .fixes = "C_")
+
+# Export the main R function so users can call it
+export(nw_e)

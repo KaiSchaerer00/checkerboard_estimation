@@ -1,5 +1,4 @@
 library(copula)
-#library(qad)
 library(dplyr)
 library(ggplot2)
 
