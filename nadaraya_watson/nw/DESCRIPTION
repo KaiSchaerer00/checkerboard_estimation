@@ -1,9 +1,0 @@
-Package: nw
-Title: Nadaraya-Watson Kernel Smoothing Implementation
-Version: 0.1.0
-Author: Your Name
-Maintainer: Your Name <your.email@example.com>
-Description: A package implementing the Nadaraya-Watson kernel smoother with custom C code.
-License: Part of R @VERSION@
-Imports: utils, grDevices, graphics
-Suggests: MASS, Matrix, SuppDists, methods, stats4
