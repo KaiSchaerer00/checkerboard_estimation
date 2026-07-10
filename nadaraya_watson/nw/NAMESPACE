@@ -1,0 +1,4 @@
+useDynLib(nw, .registration = TRUE)
+
+export(nw_e)
+export(nw_q)
